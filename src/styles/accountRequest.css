@@ -1,0 +1,28 @@
+
+
+
+.account-card{
+    display: inline;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width:770px){
+    
+    .account-card{
+        margin-left: -10px !important;
+    }
+}
+
+@media only screen and (max-width:430px){
+    
+    .account-card{
+        margin-left: -10px !important;
+    }
+
+    .account-req-page{
+        margin-left: -10px;
+    }
+}
+
+
+

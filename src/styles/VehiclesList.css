@@ -1,0 +1,31 @@
+
+.complaint-page{
+    margin-left: -30px;
+}
+
+
+@media screen and (max-width:770px) {
+
+    .add-new-vehicle{
+        width: 70% !important;
+    }
+}
+
+
+@media only screen and (max-width:430px){
+    svg{
+        margin-top: 0px;
+    }
+    .vehicle-card{
+        margin-top: 10px;
+    }
+    .add-new-vehicle{
+        width: 90% !important;
+    }
+}
+
+@media only screen and (max-width:380px){
+    .my-vehicles-main-div{
+        margin-left: -30px;
+    }
+}

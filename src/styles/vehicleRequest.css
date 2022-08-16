@@ -1,0 +1,16 @@
+@media only screen and (max-width:321px){
+    .vehicle-page{
+        margin-left: -20px;
+    }
+}
+
+
+
+@media only screen and (max-width:770px){
+    
+    .vehicle-card{
+        margin-left: -10px !important;
+    }
+
+
+}

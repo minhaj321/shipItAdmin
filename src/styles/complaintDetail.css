@@ -1,0 +1,29 @@
+.main-title{
+    text-align: left;
+}
+
+.chat-btn{
+    margin: 10px !important;
+}
+
+.btn-section{
+    width:85% ; 
+    margin:auto
+}
+
+
+@media only screen and (max-width:321px){
+    
+.main-title{
+    font-size: large;
+    margin: 15px;
+}
+    .complaint-detail-page{
+        margin-left: -40px;
+    }
+    .sec-img{
+        width: 100%;
+        height: 50%;
+    }
+}
+

@@ -1,0 +1,54 @@
+.navBar{
+    height:60px;
+    /* width: 100% !important; */
+    display: flex;
+    background-color: #1A2387;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.shipit-h1{
+    color: white;
+    margin: 10px;
+}
+
+.button-section button{
+    margin: auto 10px;
+}
+
+.login_btn:hover{
+color:#1A2387 !important;
+background-color: #ffffff !important;
+}
+
+
+@media only screen and (max-width:1026px){
+/* .navBar{
+    width: 114%;
+} */
+.navBar{
+    width: 110% !important;
+}
+}
+
+@media only screen and (max-width:430px){
+    .navBar{
+        width: 100%;
+    }
+    .btn{
+        margin-top: -0px !important;
+    }
+    }
+
+@media only screen and (max-width:430px) {
+    .carrier-status-bar Button{
+        width:100% !important;
+        font-size: 10px !important;
+    }
+}
+
+@media only screen and (max-width:323px){
+
+
+
+}
